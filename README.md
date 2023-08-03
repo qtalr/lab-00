@@ -1,4 +1,4 @@
-# Lab 0: Literate Programming I
+# Lab 0: Literate Programming: writing with code
 
 <!-- 
 
@@ -40,7 +40,7 @@ You can preview this README.md document by clicking the 'Preview' button in the 
 - What is Literate Programming?
 - What is Quarto?
 
-In your descriptions use various [options provided by the basic Markdown syntax](https://rmarkdown.rstudio.com/authoring_basics.html) to format your response (i.e. headers, bold, italics, lists, links, *etc*.
+In your descriptions use various [options provided by the basic Markdown syntax](https://rmarkdown.rstudio.com/authoring_basics.html) to format your response (i.e. headers, bold, italics, lists, links, *etc*.)
 
 *Remember: you can preview your work at any time by clicking the 'Knit' button in the RStudio toolbar*
 
