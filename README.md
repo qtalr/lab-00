@@ -1,4 +1,4 @@
-# Lab 0: Literate Programming: writing with code
+# Lab 0: writing with code
 
 <!-- 
 
