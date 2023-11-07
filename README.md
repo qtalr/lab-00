@@ -18,8 +18,8 @@ You can preview this README.md document by clicking the 'Preview' button in the 
 ## Objectives
     
 - Access a lab activity
-- Create and edit a Quarto document and render a report
-- Export a report as a PDF or Word document
+- Create, edit, and export a Quarto document as a report
+- Demonstrate your ability to use some of the basic Markdown syntax
 - Learn the submission process on Canvas
 
 ## Instructions
@@ -27,28 +27,28 @@ You can preview this README.md document by clicking the 'Preview' button in the 
 ### Getting started
 
 1. Create a Quarto document using the RStudio toolbar
-  - Provide the title: "Literate Programming I"
+  - Provide the title: "Lab 0: writing with code"
   - Provide the author: \<Your Name\>
 2. Render the Quarto document (without changes)
-  - Click the 'Knit' button on the RStudio toolbar
+  - Click the 'Render' button on the RStudio toolbar
   - Save the Quarto file with the name `lab-0.qmd`.
 
 ### Exploring Quarto
 
-1. In your own words describe:
+1. In your own words, respond to the following questions in your `.qmd` document:
 
 - What is Literate Programming?
 - What is Quarto?
 
-In your descriptions use various [options provided by the basic Markdown syntax](https://rmarkdown.rstudio.com/authoring_basics.html) to format your response (i.e. headers, bold, italics, lists, links, *etc*.)
+In your responses use various [options provided by the basic Markdown syntax](https://quarto.org/docs/authoring/markdown-basics.html) to format your response (i.e. headers, bold, italics, lists, links, *etc*.)
 
-*Remember: you can preview your work at any time by clicking the 'Knit' button in the RStudio toolbar*
+*Remember: you can preview your work at any time by clicking the 'Render' button in the RStudio toolbar*
 
 2. Render the `.qmd` as a PDF or a Word document
-  - Use the dropdown arrow to the right of the 'Knit' button and select either 'Knit to PDF' or 'Knit to Word'
+  - Use update the key atrribute `format:` to have either the value `pdf` or `docx`
 
 3. (optional) Explore adding a code chunk and some R code to your R Markdown document
-  - You can copy and paste code from Recipe #1 to get you started.
+  - You can copy and paste code from Recipe #0 to get you started.
   - Try and manipulate the code chunk options (i.e. hiding code and/ or output), for example.
 
 ### Assessing your progress
@@ -64,9 +64,9 @@ Some questions to consider:
 
 ## Submission for feedback
 
-1. To prepare your lab report for submission on Canvas you will need to Knit your R Markdown document to PDF or Word. 
-2. Download this file to your computer.
-3. Go to the Canvas submission page for Lab #0 and submit your PDF/Word document as a 'File Upload'. Add any comments you would like to pass on to me about the lab in the 'Comments...' box in Canvas.
+1. To prepare your lab report for submission you will need to render your Quarto document to PDF or Word. 
+2. Download this file to your local computer.
+3. Submit your report as described by your instructor.
 
 ## License
 

@@ -1,11 +1,7 @@
 ---
-title: "Literate Programming I"
+title: "Lab 0: writing with code"
 author: "Jerid Francom"
-date-modified: today
-format: html
-bibliography: [bibliography.bib, packages.bib]
-biblio-style: apalike
-link-citations: true
+format: pdf
 ---
 
 ## What is literate programming?
@@ -21,7 +17,7 @@ Quarto is a tool for implementing literate programming. You can write prose in M
 
 ```{r}
 #| label: lab-1-test-chunk-1
-#| message: false
+#| echo: false
 
 print("Hello world!")
 ```
