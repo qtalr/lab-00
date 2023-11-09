@@ -47,9 +47,9 @@ In your responses use various [options provided by the basic Markdown syntax](ht
 2. Render the `.qmd` as a PDF or a Word document
   - Use update the key atrribute `format:` to have either the value `pdf` or `docx`
 
-3. (optional) Explore adding a code chunk and some R code to your R Markdown document
+3. (optional) Explore adding a code block and some R code to your R Markdown document
   - You can copy and paste code from Recipe #0 to get you started.
-  - Try and manipulate the code chunk options (i.e. hiding code and/ or output), for example.
+  - Try and manipulate the code block options (i.e. hiding code and/ or output), for example.
 
 ### Assessing your progress
 
@@ -58,9 +58,11 @@ In your responses use various [options provided by the basic Markdown syntax](ht
 Some questions to consider: 
 
   - What did you learn?
-  - What was most/ least challenging?
-  - What resources did you consult? Instructor? Websites (provide links)?
+  - What did you find most/ least challenging?
+  - What resources did you consult? 
+    - Instructor? Websites (provide links)?
   - What more would you like to know about literate programming and/ or Quarto?
+    - Find potential resources you might consult to continue your learning. Provide links and a brief description of the resource.
 
 ## Submission for feedback
 
