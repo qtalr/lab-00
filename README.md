@@ -51,7 +51,7 @@ In your responses use various [options provided by the basic Markdown syntax](ht
   - You can copy and paste code from Recipe #0 to get you started.
   - Try and manipulate the code block options (i.e. hiding code and/ or output), for example.
 
-### Assessing your progress
+## Assessing your progress
 
 1. Add a section which describes your learning in this lab
 
