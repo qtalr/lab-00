@@ -1,4 +1,4 @@
-# Lab 0: writing with code
+# Lab 00: writing with code
 
 <!-- 
 - [ ] Create dev container
@@ -28,7 +28,7 @@ You can preview this README.md document by clicking the 'Preview' button in the 
   - Provide the author: \<Your Name\>
 2. Render the Quarto document (without changes)
   - Click the 'Render' button on the RStudio toolbar
-  - Save the Quarto file with the name `lab-0.qmd`.
+  - Save the Quarto file with the name `lab-00.qmd`.
 
 ### Exploring Quarto
 
