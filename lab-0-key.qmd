@@ -1,15 +1,15 @@
 ---
-title: "Lab 0: writing with code"
+title: "Lab 00: writing with code"
 author: "Jerid Francom"
 format: pdf
 ---
 
 # What is literate programming?
 
-Literate programming is an approach to programming in which prose and executable code can be intermingled. This is useful for: 
+Literate programming is an approach to programming in which prose and executable code can be intermingled. This is useful for:
 
-1. documenting code and project files. 
-2. making your work transparent to others. 
+1. documenting code and project files.
+2. making your work transparent to others.
 
 # What is Quarto?
 
@@ -36,7 +36,7 @@ mtcars |> # call `mtcars` dataset
 
 ## Learning
 
-I learned how to create a [Quarto document](https://quarto.org/) and how to use both Markdown formatting and code blocks. The most challenging thing was actually just remembering what the code block options were. I didn't look at any other websites to get help, but I will explore other resources next time. 
+I learned how to create a [Quarto document](https://quarto.org/) and how to use both Markdown formatting and code blocks. The most challenging thing was actually just remembering what the code block options were. I didn't look at any other websites to get help, but I will explore other resources next time.
 
 ## Next steps
 
@@ -45,4 +45,4 @@ I'd *love* to know if I can use Quarto to make:
 - slide presentations
   - The Quarto website has a section on creating [slide presentations](https://quarto.org/docs/presentations/).
 - websites
-  - The Quarto website has a section on [creating a website](https://quarto.org/docs/websites/). 
+  - The Quarto website has a section on [creating a website](https://quarto.org/docs/websites/).

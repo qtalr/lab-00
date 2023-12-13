@@ -1,10 +1,10 @@
 # Lab 00: writing with code
 
-<!-- 
+<!--
 - [ ] Create dev container
 -->
 
-<!-- NOTE: 
+<!-- NOTE:
 You can preview this README.md document by clicking the 'Preview' button in the RStudio toolbar. The rendered document will appear in the 'Viewer' pane to the right as a formatted report.
 -->
 
@@ -13,7 +13,7 @@ You can preview this README.md document by clicking the 'Preview' button in the 
 - Read/ annotate: [Recipe \#0](https://qtalr.github.io/qtalrkit/articles/recipe-0.html). You can refer back to this document to help you at any point during this lab activity.
 
 ## Objectives
-    
+
 - Access a lab activity
 - Create, edit, and export a Quarto document as a report
 - Demonstrate your ability to use some of the basic Markdown syntax
@@ -24,7 +24,7 @@ You can preview this README.md document by clicking the 'Preview' button in the 
 ### Getting started
 
 1. Create a Quarto document using the RStudio toolbar
-  - Provide the title: "Lab 0: writing with code"
+  - Provide the title: "Lab 00: writing with code"
   - Provide the author: \<Your Name\>
 2. Render the Quarto document (without changes)
   - Click the 'Render' button on the RStudio toolbar
@@ -52,18 +52,18 @@ In your responses use various [options provided by the basic Markdown syntax](ht
 
 1. Add a section which describes your learning in this lab
 
-Some questions to consider: 
+Some questions to consider:
 
   - What did you learn?
   - What did you find most/ least challenging?
-  - What resources did you consult? 
+  - What resources did you consult?
     - Instructor? Quarto documentation, Websites (provide links)?
   - What more would you like to know about literate programming and/ or Quarto?
     - Find potential resources you might consult to continue your learning. Provide links and a brief description of the resource.
 
 ## Submission for feedback
 
-1. To prepare your lab report for submission you will need to render your Quarto document to PDF or Word. 
+1. To prepare your lab report for submission you will need to render your Quarto document to PDF or Word.
 2. Download this file to your local computer.
 3. Submit your report as described by your instructor.
 
