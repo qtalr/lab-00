@@ -17,7 +17,7 @@ You can preview this README.md document by clicking the 'Preview' button in the 
 - Access a lab activity
 - Create, edit, and export a Quarto document as a report
 - Demonstrate your ability to use some of the basic Markdown syntax
-- Learn the submission process on Canvas
+- Learn the submission process.
 
 ## Instructions
 
