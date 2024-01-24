@@ -1,9 +1,5 @@
 # Lab 00: writing with code
 
-<!--
-- [ ] Create dev container
--->
-
 <!-- NOTE:
 You can preview this README.md document by clicking the 'Preview' button in the RStudio toolbar. The rendered document will appear in the 'Viewer' pane to the right as a formatted report.
 -->
@@ -41,8 +37,7 @@ In your responses use various [options provided by the basic Markdown syntax](ht
 
 *Remember: you can preview your work at any time by clicking the 'Render' button in the RStudio toolbar*
 
-2. Render the `.qmd` as a PDF or a Word document
-  - Use update the key atrribute `format:` to have either the value `pdf` or `docx`
+2. Render the `.qmd` as a PDF. Use the `format:` key atrribute to have the value `pdf`.
 
 3. (optional) Explore adding a code block and some R code to your R Markdown document
   - You can copy and paste code from Recipe #0 to get you started.
@@ -63,7 +58,7 @@ Some questions to consider:
 
 ## Submission for feedback
 
-1. To prepare your lab report for submission you will need to render your Quarto document to PDF or Word.
+1. To prepare your lab report for submission you will need to render your Quarto document to PDF.
 2. Download this file to your local computer.
 3. Submit your report as described by your instructor.
 
