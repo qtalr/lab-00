@@ -1,4 +1,4 @@
-# Lab 00: writing with code
+# Lab 00: Writing with code
 
 <!-- NOTE:
 You can preview this README.md document by clicking the 'Preview' button in the RStudio toolbar. The rendered document will appear in the 'Viewer' pane to the right as a formatted report.
@@ -20,7 +20,7 @@ You can preview this README.md document by clicking the 'Preview' button in the 
 ### Getting started
 
 1. Create a Quarto document using the RStudio toolbar
-  - Provide the title: "Lab 00: writing with code"
+  - Provide the title: "Lab 00: Writing with code"
   - Provide the author: \<Your Name\>
 2. Render the Quarto document (without changes)
   - Click the 'Render' button on the RStudio toolbar

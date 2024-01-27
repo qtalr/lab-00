@@ -6,3 +6,6 @@
 *.Rproj
 _*
 *key.pdf
+cite-packages.R
+*_files
+*.html
