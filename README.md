@@ -6,7 +6,9 @@ You can preview this README.md document by clicking the 'Preview' button in the 
 
 ## Preparation
 
-- Read/ annotate: [Recipe \#0](https://qtalr.github.io/qtalrkit/articles/recipe-0.html). You can refer back to this document to help you at any point during this lab activity.
+<!-- FIX: change recipe links https://github.com/qtalr/lab-00/issues/1 -->
+
+- Read/ annotate: [Recipe \#0](https://qtalr.com/resources/recipes/recipe-00/). You can refer back to this document to help you at any point during this lab activity.
 
 ## Objectives
 
@@ -20,11 +22,14 @@ You can preview this README.md document by clicking the 'Preview' button in the 
 ### Getting started
 
 1. Create a Quarto document using the RStudio toolbar
-  - Provide the title: "Lab 00: Writing with code"
-  - Provide the author: \<Your Name\>
+
+- Provide the title: "Lab 00: Writing with code"
+- Provide the author: \<Your Name\>
+
 2. Render the Quarto document (without changes)
-  - Click the 'Render' button on the RStudio toolbar
-  - Save the Quarto file with the name `lab-00.qmd`.
+
+- Click the 'Render' button on the RStudio toolbar
+- Save the Quarto file with the name `lab-00.qmd`.
 
 ### Exploring Quarto
 
@@ -33,15 +38,16 @@ You can preview this README.md document by clicking the 'Preview' button in the 
 - What is Literate Programming?
 - What is Quarto?
 
-In your responses use various [options provided by the basic Markdown syntax](https://quarto.org/docs/authoring/markdown-basics.html) to format your response (i.e. headers, bold, italics, lists, links, *etc*.)
+In your responses use various [options provided by the basic Markdown syntax](https://quarto.org/docs/authoring/markdown-basics.html) to format your response (i.e. headers, bold, italics, lists, links, _etc_.)
 
-*Remember: you can preview your work at any time by clicking the 'Render' button in the RStudio toolbar*
+_Remember: you can preview your work at any time by clicking the 'Render' button in the RStudio toolbar_
 
 2. Render the `.qmd` as a PDF. Use the `format:` key atrribute to have the value `pdf`.
 
 3. (optional) Explore adding a code block and some R code to your R Markdown document
-  - You can copy and paste code from Recipe #0 to get you started.
-  - Try and manipulate the code block options (i.e. hiding code and/ or output), for example.
+
+- You can copy and paste code from Recipe #0 to get you started.
+- Try and manipulate the code block options (i.e. hiding code and/ or output), for example.
 
 ## Assessing your progress
 
@@ -49,12 +55,12 @@ In your responses use various [options provided by the basic Markdown syntax](ht
 
 Some questions to consider:
 
-  - What did you learn?
-  - What did you find most/ least challenging?
-  - What resources did you consult?
-    - Instructor? Quarto documentation, Websites (provide links)?
-  - What more would you like to know about literate programming and/ or Quarto?
-    - Find potential resources you might consult to continue your learning. Provide links and a brief description of the resource.
+- What did you learn?
+- What did you find most/ least challenging?
+- What resources did you consult?
+  - Instructor? Quarto documentation, Websites (provide links)?
+- What more would you like to know about literate programming and/ or Quarto?
+  - Find potential resources you might consult to continue your learning. Provide links and a brief description of the resource.
 
 ## Submission for feedback
 
